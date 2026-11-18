@@ -1,0 +1,71 @@
+{
+  "base": {
+    "sha256": "b66d6f0f14cf0ea5c444761a2615ce4f93aff3aa22f2189c0b2fda3d8adf8015",
+    "size": 828903576,
+    "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/base.tar.zst"
+  },
+  "boot": {
+    "sha256": "b9dd3cfcd4fbafc48ac21d0c91ef09ee544a17b8f40cf5be18093aa72f160104",
+    "size": 22094393,
+    "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/boot.tar.zst"
+  },
+  "date": "2026-11-18",
+  "iso": {
+    "sha256": "1d6e95553f9871d862827005e23497e3ac441285971cbfe53e0a625f8f912589",
+    "size": 1399689216,
+    "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/acornos-x86_64.iso"
+  },
+  "notes": "https://levitateos.org/releases/acornos/1.0",
+  "os": "acornos",
+  "parts": [
+    {
+      "category": "desktop",
+      "name": "parts-desktop",
+      "sha256": "a2273cce7ca0cb4b33294d5395304843dcb26b2c4df30e5c5e5b0b1cdb14b4b8",
+      "size": 356774480,
+      "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/parts-desktop.tar.zst"
+    },
+    {
+      "category": "browser",
+      "name": "parts-browser",
+      "sha256": "c1ee58f95acdccc4db1031cd18ee3c0ab7679eb24d8fb080b519599a99af451b",
+      "size": 106518745,
+      "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/parts-browser.tar.zst"
+    },
+    {
+      "category": "system",
+      "name": "parts-system",
+      "sha256": "7998ce63e37cedec5d3a2b151b2ff5549b696fc15fea9c492239e4bea1af17a3",
+      "size": 72688022,
+      "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/parts-system.tar.zst"
+    },
+    {
+      "category": "fonts",
+      "name": "parts-fonts",
+      "sha256": "e10890f817914eaf4ef8f923f0762bdd0c9591307a2319406493a2efe5d360b7",
+      "size": 115291761,
+      "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/parts-fonts.tar.zst"
+    },
+    {
+      "category": "apps",
+      "name": "parts-apps",
+      "sha256": "2875542de69b1fa09973eb692f0670ace787e16015dd2f21bbe0ad933b717d52",
+      "size": 1033845,
+      "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/parts-apps.tar.zst"
+    }
+  ],
+  "recipes": {
+    "revision": "b90fc714c1b3c82c703163e7124cc0b612f91ced",
+    "sha256": "b8356e77caeb3b73e0942a6c6928899e8c65fd9c863ee2dcf6d1f32ad7b71cdc",
+    "size": 94001,
+    "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/recipes.tar.zst"
+  },
+  "schema": 1,
+  "serial": 1,
+  "sources": {
+    "sha256": "253b2ed546ed6a73e72b2837ebef53b993a59846ebe1feeac98b977da2cf1498",
+    "size": 98707,
+    "url": "https://github.com/LevitateOS/releases/releases/download/acornos-1/SOURCES.txt"
+  },
+  "version": "1.0"
+}
