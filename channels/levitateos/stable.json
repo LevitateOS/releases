@@ -1,0 +1,71 @@
+{
+  "base": {
+    "sha256": "0d4054934173d49891acb90f93104cf111cc421a45eff8bf6976bc798eba0953",
+    "size": 929770432,
+    "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/base.tar.zst"
+  },
+  "boot": {
+    "sha256": "aa6dbb7dd6813d2e55e2ba7f4e4efe840af586701b26183777ed23b2cd140468",
+    "size": 24126963,
+    "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/boot.tar.zst"
+  },
+  "date": "2026-11-18",
+  "iso": {
+    "sha256": "ae11db44c55e6da5943dc340a046db51e9488c72cf78c5195a684c26e566167f",
+    "size": 1746161664,
+    "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/levitateos-x86_64.iso"
+  },
+  "notes": "https://levitateos.org/releases/levitateos/1.0",
+  "os": "levitateos",
+  "parts": [
+    {
+      "category": "desktop",
+      "name": "parts-desktop",
+      "sha256": "0522e1a99d5c71499223bae56a5dcd535fa28218761cbcc54001d8faccdf4be8",
+      "size": 519809982,
+      "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/parts-desktop.tar.zst"
+    },
+    {
+      "category": "browser",
+      "name": "parts-browser",
+      "sha256": "61e7d6b01a3e58b8d1d83fafe427675a6b6095ed62145ad567524b4f860612e8",
+      "size": 96164947,
+      "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/parts-browser.tar.zst"
+    },
+    {
+      "category": "system",
+      "name": "parts-system",
+      "sha256": "c1f6454eebb9064f7521233b9377f73e478290ba811f3914cf9f87e13d4cc4f1",
+      "size": 48596680,
+      "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/parts-system.tar.zst"
+    },
+    {
+      "category": "fonts",
+      "name": "parts-fonts",
+      "sha256": "b03011438cb3a322bcab905d81fdf9f1f90ffcc8e9bc982b0db03813be1bb781",
+      "size": 121210281,
+      "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/parts-fonts.tar.zst"
+    },
+    {
+      "category": "apps",
+      "name": "parts-apps",
+      "sha256": "831fb506ff6d4de8bbf7b8b04f596703294813e5499d028aacf8c3ddf79f29f7",
+      "size": 992419,
+      "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/parts-apps.tar.zst"
+    }
+  ],
+  "recipes": {
+    "revision": "b90fc714c1b3c82c703163e7124cc0b612f91ced",
+    "sha256": "1798f55d359791c26f466ab97f4a5aedebe4f089f7ce92407cdde238a054a5b5",
+    "size": 106451,
+    "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/recipes.tar.zst"
+  },
+  "schema": 1,
+  "serial": 1,
+  "sources": {
+    "sha256": "055d26caa32ceb6ac81d4bbf7a126d11d18a606f4809e39f3cd968292490fb18",
+    "size": 145895,
+    "url": "https://github.com/LevitateOS/releases/releases/download/levitateos-1/SOURCES.txt"
+  },
+  "version": "1.0"
+}
